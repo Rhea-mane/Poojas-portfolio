@@ -1,0 +1,120 @@
+*{
+  font-family: 'Oxygen', sans-serif;
+
+}
+.container-fluid{
+  background-color: #FFE5E5;;
+}
+.navbar-brand {color: #FF90BC;
+    font-weight: 700;
+ 
+ font-size: xx-large;}
+
+ .hero {
+    background-color:#F5EEE6 ;
+ }
+
+
+ .hero-text h1{
+    color: #FF90BC;
+    font-weight: 700;
+
+ font-size: 1200;
+ padding-top: 40vh;
+ }
+ 
+ 
+
+  .hero-text {
+    text-align: justify;
+    position: absolute;
+    top: 100%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    color: #E6A4B4;
+    font-size: large;
+    font-weight: 400;
+ 
+  }
+  .second p{
+    padding-top: .1vh;
+  }
+  .col-md-8 h1{
+    
+    color: #FF90BC;
+    font-weight: 700;
+ 
+ font-size: 1200;
+ padding-top: 40vh;
+}
+
+ .hill img{
+  padding-top: 390px;
+  height: 650px;
+ }
+ .saree img{
+  padding-top: 40px;
+height: 400px;
+width: 250px;
+
+ }
+  #travel p{
+    
+    font-size: large;
+color: #E6A4B4;
+padding-top: 30px;
+text-align: justify;
+
+}
+
+  .traditional{
+    padding-top: 60px;
+    font-size: large;
+    color: #E6A4B4;
+    text-align: justify;
+  }
+  .carousel-inner img{
+    height: 700px;
+ 
+  }
+  
+  .food{
+    padding-top: 60px;
+    font-size: large;
+    color: #E6A4B4;
+    text-align: justify;
+
+  }
+  .heart img{
+    height: 400px;
+    width: 250px;
+  }
+  .foot{
+    background-color:#FFE5E5 ;
+  }
+  .foot h2{
+    color: #E6A4B4;
+    font-weight: 700;
+    margin-left:30px ;
+
+  }
+  .texxt p{
+
+    font-size: large;
+color: #FF90BC;
+padding-top: 30px;
+text-align: justify
+  }
+  .logo {
+    color: #FF90BC;
+  }
+  .logo p{
+    font-size: 20px;
+  }
+
+  .lastt{
+    background-color:#E6A4B4 ;
+  }
+  .lastt p{
+    color:whitesmoke;
+  text-align: center;}
